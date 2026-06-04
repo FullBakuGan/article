@@ -2,7 +2,7 @@
   "name": "spam-filter",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://FullBakuGan.github.io/spam-filter",
+  "homepage": "https://fullbakuGan.github.io/spam-filter",
   "type": "module",
   "scripts": {
     "dev": "vite",
